@@ -1,4 +1,4 @@
-## Lab 1A
+## Lab 1A - Pointers in C
 
 ### Learning Objectives
 - Describe what a pointer is and use them to manipulate data.
@@ -16,3 +16,5 @@
 - Feel free to use "(", ")", and "=" as much as you want.
 - You are permitted to use casts for these functions.
 - We will not grade comments, but commenting your code is good practice and helpful for debugging.
+
+Full Details at [Lab 1A Overview Page](https://courses.cs.washington.edu/courses/cse351/24sp/labs/lab1a.html)
