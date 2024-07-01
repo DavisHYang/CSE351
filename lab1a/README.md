@@ -17,4 +17,4 @@
 - You are permitted to use casts for these functions.
 - We will not grade comments, but commenting your code is good practice and helpful for debugging.
 
-Full Details at [Lab 1A Overview Page](https://courses.cs.washington.edu/courses/cse351/24sp/labs/lab1a.html)
+Full Details at [Lab 1A Overview Page](https://courses.cs.washington.edu/courses/cse351/24sp/labs/lab1a.html).
