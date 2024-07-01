@@ -9,3 +9,5 @@
 This lab uses a custom data representation of aisles in a store. `aisle_manager.c` and `store_client.c` have skeleton functions for you to implement, each with a comment describing its desired behavior.
 
 You will start by implementing functions that use bitwise operators, bitmasks, and C control structures to manage an individual **aisle**. After implementing these functions, you will move onto functions that use pointers, arrays, and your aisle functions to manage multiple aisles in a **store**.
+
+Full Details at [Lab 1B Overview](https://courses.cs.washington.edu/courses/cse351/24sp/labs/lab1b.html)
